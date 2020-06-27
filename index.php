@@ -1,9 +1,12 @@
+WellCome TO This PAge 
+<br />
+<pre>
 <?php 
-
 print "Hello"; 
 
-<br/>
+
 
 print `ifconfig`;
 
 ?>
+</pre>
